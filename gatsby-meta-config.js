@@ -1,5 +1,5 @@
 module.exports = {
-  title: `moodselah.github.io`,
+  title: `MOOOOD`,
   description: `moodselah dev blog`,
   author: `moodselah`,
   introduction: `배움에 목마른 우물 속의 프론트엔드 개발자 #javascript #typescript #vanilla #react #nodejs`,
