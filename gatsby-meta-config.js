@@ -2,7 +2,7 @@ module.exports = {
   title: `moodselah`,
   description: `Frontend Engineer`,
   author: `moodselah`,
-  introduction: `새로운 기술을 탐하고, 배움에 목마른 우물 속의 프론트엔드 개발자`,
+  introduction: `배움에 목마른 우물 속의 프론트엔드 개발자 #javascript #typescript #vanilla #react #nodejs`,
   siteUrl: `https://moodselah.github.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
