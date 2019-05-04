@@ -2,7 +2,7 @@ module.exports = {
   title: `moodselah`,
   description: `Frontend Engineer`,
   author: `moodselah`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  introduction: `Frontend Engineer`,
   siteUrl: `https://moodselah.github.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account

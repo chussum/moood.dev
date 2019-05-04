@@ -9,7 +9,7 @@ export const Footer = () => (
       moodselah
     </a>
     , Built with{' '}
-    <a href="https://github.com/JaeYeopHan/gatsby-starter-bee">
+    <a href="https://github.com/JaeYeopHan/gatsby-starter-bee" target="_blank">
       Gatsby-starter-bee
     </a>
   </footer>
