@@ -76,6 +76,14 @@ body.light {
     &.title {
       margin-bottom: 1em !important;
       padding-bottom: 1em !important;
+      .date {
+        margin: 10px 0 0 0;
+        display: block;
+        font-size: 16px;
+        font-weight: normal;
+        color: #666;
+        text-align: right;
+      }
     }
   }
 

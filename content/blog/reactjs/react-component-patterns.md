@@ -1,6 +1,6 @@
 ---
 title: '[번역] React Component Patterns'
-date: 2018-09-05 21:05:99
+date: 2018-09-05 23:02:10
 category: 'reactjs'
 ---
 
