@@ -10,7 +10,7 @@ module.exports = {
     medium: `@flosdor`, // Your Medium account
     facebook: `andewworld`, // Your Facebook account
   },
-  icon: `content/assets/felog.png`, // Add your favicon
+  icon: `content/assets/favicon/favicon-96x96.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
