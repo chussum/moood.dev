@@ -1,9 +1,15 @@
 @import '../styles/variables.scss';
 @import '../styles/light-theme.scss';
 @import '../styles/dark-theme.scss';
+@import url('//vendor.imweb.me/css/arita.css');
 
 body {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: aritadm, '아리따돋움', -apple-system, system-ui,
+    BlinkMacSystemFont, '애플 SD 산돌고딕 Neo', 'Apple SD Gothic Neo',
+    'Noto Sans KR', sans-serif;
+  color: #212121;
+  font-size: 16px;
+  line-height: 1.8;
   background-color: $light-background-color;
   -webkit-text-size-adjust: antialiased;
   -moz-osx-font-smoothing: grayscale;
