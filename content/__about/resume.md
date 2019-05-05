@@ -9,7 +9,6 @@ lang: 'ko'
 배움에 목마른 우물 속의 프론트엔드 개발자  
 `#javascript` `#typescript` `#vanilla` `#react` `#nodejs`
 
-<br>
 <table>
 <colgroup>
     <col width="120px" />
@@ -24,11 +23,14 @@ lang: 'ko'
     <td><a href="mailto:iam@hyungdew.com">iam@hyungdew.com</a></td>
 </tr>
 <tr>
+    <th>Blog</th>
+    <td><a href="https://moodselah.github.io">https://moodselah.github.io</a></td>
+</tr>
+<tr>
     <th>Github</th>
     <td><a href="https://github.com/moodselah" target="_blank">https://github.com/moodselah</a></td>
 </tr>
 </table>
-<br>
 
 <h1 style="margin-bottom: 1.7rem;">Work Experiences</h1>
 
@@ -59,12 +61,11 @@ lang: 'ko'
     <td style="word-break: break-all">aws, typescript, coreui, websocket, reactjs, reactnative, redux, scss, lodash, express, webpack, babel, nginx, pm2</td>
 </tr>
 </table>
-<br>
 
 <div style="margin-left: -4px; width: 50px; float: left">
     <img src="./images/haemuk.jpg">
 </div>
-<h3 style="margin-top: 0.95rem; padding-left: 50px;">Vitalhint Korea</span>
+<h3 style="margin-top: 1.6rem; padding-left: 50px;">Vitalhint Korea</span>
 
 <table>
 <colgroup>
@@ -88,12 +89,11 @@ lang: 'ko'
     <td style="word-break: break-all">aws, reactjs, redux, scss, lodash, express, webpack, babel, nginx, pm2</td>
 </tr>
 </table>
-<br>
 
 <div style="margin-left: -4px; width: 50px; float: left">
     <img src="./images/yellostory.jpg">
 </div>
-<h3 style="margin-top: 0.95rem; padding-left: 50px;">YelloStory</span>
+<h3 style="margin-top: 1.6rem; padding-left: 50px;">YelloStory</span>
 
 <table>
 <colgroup>
@@ -117,9 +117,8 @@ lang: 'ko'
     <td style="word-break: break-all">aws, angularjs 1.5.x, typescript, bootstrap, less, lodash, express, webpack, gulp, nginx, pm2, gitlab, gitlab-ci</td>
 </tr>
 </table>
-<br>
 
-# Toy Projects
+# Personal Projects
 
 ### Moodselah
 
@@ -141,7 +140,6 @@ lang: 'ko'
     <td style="word-break: break-all">typescript, reactjs, graphql, webpack, babel, express, typeorm, kakaomap</td>
 </tr>
 </table>
-<br>
 
 ### Delibee
 
@@ -163,7 +161,6 @@ lang: 'ko'
     <td style="word-break: break-all">cheerio, puppeteer, iconv-lite</td>
 </tr>
 </table>
-<br>
 
 ### Deep Link
 
@@ -185,7 +182,6 @@ lang: 'ko'
     <td style="word-break: break-all">webpack, babel</td>
 </tr>
 </table>
-<br>
 
 ### Lunch Sheet
 
@@ -207,7 +203,6 @@ lang: 'ko'
     <td style="word-break: break-all">typescript, routing-controller, typedi, ejs, cheerio, express</td>
 </tr>
 </table>
-<br>
 
 ### Simple Basket
 
@@ -225,7 +220,6 @@ lang: 'ko'
     <td style="word-break: break-all">swift, cocoapods, snapkit, realm</td>
 </tr>
 </table>
-<br>
 
 ### Realtime Vote Festival
 
