@@ -48,12 +48,12 @@ lang: 'ko'
     <td>FrontEnd Engineer</td>
 </tr>
 <tr>
-    <th style="vertical-align: top">Tech Experience</th>
-    <td>aws, typescript, coreui, websocket, reactjs, reactnative, redux, scss, lodash, express, webpack, babel, nginx, pm2</td>
+    <th style="vertical-align: top">Projects</th>
+    <td style="word-break: break-all">OKEx Korea App (React Native)</td>
 </tr>
 <tr>
-    <th style="vertical-align: top">Projects</th>
-    <td>OKEx Korea App (React Native)</td>
+    <th style="vertical-align: top">Tech Experience</th>
+    <td style="word-break: break-all">aws, typescript, coreui, websocket, reactjs, reactnative, redux, scss, lodash, express, webpack, babel, nginx, pm2</td>
 </tr>
 </table>
 <br>
@@ -74,12 +74,12 @@ lang: 'ko'
     <td>FrontEnd Engineer</td>
 </tr>
 <tr>
-    <th style="vertical-align: top">Tech Experience</th>
-    <td>aws, reactjs, redux, scss, lodash, express, webpack, babel, nginx, pm2</td>
+    <th style="vertical-align: top">Projects</th>
+    <td style="word-break: break-all">Haemuknamnyo Mobile Commerce Web(<a href="https://m.haemukja.com/store" target="_blank">https://m.haemukja.com/store</a>), Google Assistant</td>
 </tr>
 <tr>
-    <th style="vertical-align: top">Projects</th>
-    <td>Haemuknamnyo Mobile Commerce Web(<a href="https://m.haemukja.com/store" target="_blank">https://m.haemukja.com/store</a>), Google Assistant</td>
+    <th style="vertical-align: top">Tech Experience</th>
+    <td style="word-break: break-all">aws, reactjs, redux, scss, lodash, express, webpack, babel, nginx, pm2</td>
 </tr>
 </table>
 <br>
@@ -100,12 +100,12 @@ lang: 'ko'
     <td>FrontEnd Engineer</td>
 </tr>
 <tr>
-    <th style="vertical-align: top">Tech Experience</th>
-    <td>aws, angularjs 1.5.x, typescript, bootstrap, less, lodash, express, webpack, gulp, nginx, pm2, gitlab, gitlab-ci</td>
+    <th style="vertical-align: top">Projects</th>
+    <td style="word-break: break-all">No 1. Influencer Marketing Platform Weble(<a href="https://weble.net" target="_blank">https://weble.net</a>), CRM</td>
 </tr>
 <tr>
-    <th style="vertical-align: top">Projects</th>
-    <td>No 1. Influencer Marketing Platform Weble(<a href="https://weble.net" target="_blank">https://weble.net</a>), CRM</td>
+    <th style="vertical-align: top">Tech Experience</th>
+    <td style="word-break: break-all">aws, angularjs 1.5.x, typescript, bootstrap, less, lodash, express, webpack, gulp, nginx, pm2, gitlab, gitlab-ci</td>
 </tr>
 </table>
 <br>
@@ -125,11 +125,11 @@ lang: 'ko'
 </tr>
 <tr>
     <th>Link</th>
-    <td><a href="https://moodselah.com" target="_blank">https://moodselah.com</a></td>
+    <td style="word-break: break-all"><a href="https://moodselah.com" target="_blank">https://moodselah.com</a></td>
 </tr>
 <tr>
     <th style="vertical-align: top">Tech Experience</th>
-    <td>typescript, reactjs, graphql, webpack, babel, express, typeorm, kakaomap</td>
+    <td style="word-break: break-all">typescript, reactjs, graphql, webpack, babel, express, typeorm, kakaomap</td>
 </tr>
 </table>
 <br>
@@ -147,11 +147,11 @@ lang: 'ko'
 </tr>
 <tr>
     <th>Link</th>
-    <td><a href="https://moodselah.github.io/delibee" target="_blank">https://moodselah.github.io/delibee</a></td>
+    <td style="word-break: break-all"><a href="https://moodselah.github.io/delibee" target="_blank">https://moodselah.github.io/delibee</a></td>
 </tr>
 <tr>
     <th style="vertical-align: top">Tech Experience</th>
-    <td>cheerio, puppeteer, iconv-lite</td>
+    <td style="word-break: break-all">cheerio, puppeteer, iconv-lite</td>
 </tr>
 </table>
 <br>
@@ -169,11 +169,11 @@ lang: 'ko'
 </tr>
 <tr>
     <th>Link</th>
-    <td><a href="https://github.com/moodselah/deep-link" target="_blank">https://github.com/moodselah/deep-link</a></td>
+    <td style="word-break: break-all"><a href="https://github.com/moodselah/deep-link" target="_blank">https://github.com/moodselah/deep-link</a></td>
 </tr>
 <tr>
     <th style="vertical-align: top">Tech Experience</th>
-    <td>webpack, babel</td>
+    <td style="word-break: break-all">webpack, babel</td>
 </tr>
 </table>
 <br>
@@ -191,11 +191,11 @@ lang: 'ko'
 </tr>
 <tr>
     <th>Link</th>
-    <td><a href="https://eat.moodselah.com" target="_blank">https://eat.moodselah.com</a></td>
+    <td style="word-break: break-all"><a href="https://eat.moodselah.com" target="_blank">https://eat.moodselah.com</a></td>
 </tr>
 <tr>
     <th style="vertical-align: top">Tech Experience</th>
-    <td>typescript, routing-controller, typedi, ejs, cheerio, express</td>
+    <td style="word-break: break-all">typescript, routing-controller, typedi, ejs, cheerio, express</td>
 </tr>
 </table>
 <br>
@@ -209,11 +209,11 @@ lang: 'ko'
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
     <th>Link</th>
-    <td><a href="https://appsto.re/kr/g8hjib.i" target="_blank">https://appsto.re/kr/g8hjib.i</a></td>
+    <td style="word-break: break-all"><a href="https://appsto.re/kr/g8hjib.i" target="_blank">https://appsto.re/kr/g8hjib.i</a></td>
 </tr>
 <tr>
     <th style="vertical-align: top">Tech Experience</th>
-    <td>swift, cocoapods, snapkit, realm</td>
+    <td style="word-break: break-all">swift, cocoapods, snapkit, realm</td>
 </tr>
 </table>
 <br>
@@ -227,7 +227,7 @@ lang: 'ko'
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
     <th style="vertical-align: top">Tech Experience</th>
-    <td>express, socket.io, reactjs, redux, less, sequelize, mariadb</td>
+    <td style="word-break: break-all">express, socket.io, reactjs, redux, less, sequelize, mariadb</td>
 </tr>
 </table>
 <br>
