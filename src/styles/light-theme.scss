@@ -91,6 +91,12 @@ body.light {
   }
 
   .content {
-    font-size: 16px;
+    font-size: 14.994px;
+    a {
+      color: #888;
+      &:hover {
+        color: #000;
+      }
+    }
   }
 }
