@@ -34,7 +34,7 @@ pre[class*='language-'] {
   word-break: normal;
   word-wrap: normal;
   line-height: 1.6;
-  font-size: 13px;
+  font-size: 16.5px;
 
   -moz-tab-size: 2;
   -o-tab-size: 2;
@@ -73,6 +73,8 @@ pre[class*='language-'] {
   white-space: normal;
   background: $inline-dimmed-color;
   color: $inline-text-color;
+  font-family: 'Noto Serif KR', Noto Sans KR, serif;
+  line-height: 1.75;
 }
 
 .token.comment,
