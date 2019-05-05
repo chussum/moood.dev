@@ -18,8 +18,8 @@ $ git clone git@gehirn.moodselah.com:moodselah
 
 ## git flow init
 
-> git의 확장인 git-flow 명령어들을 지속적으로 사용하기 위해 사용하는 명령어입니다.
-> 저장소(branch)들을 초기화하는 과정인데, 대체로 'git clone' 후에 최초 1회만 사용됩니다.
+> git의 확장인 `git-flow` 명령어들을 지속적으로 사용하기 위해 사용하는 명령어입니다.
+> 저장소(branch)들을 초기화하는 과정인데, 대체로 `git clone` 후에 최초 1회만 사용됩니다.
 > 즉, <span style="color: #f83d16">게임 계정을 만들고 캐릭터 생성하는 단계</span>라 보시면 됩니다.
 
 > 해당 명령어를 사용하면 branch 이름들을 어떻게 지정할 것인지 물어보는데, 기본값으로 적용하는 것을 추천드립니다.
@@ -106,7 +106,7 @@ $ git add images/icon.png
 
 ### 2. git add .
 
-현재 사용자의 PC에서 추가/삭제/변경한 모든 파일들을 실제 서버(origin, 원격지)에 업로드하기 위해서 사용합니다.
+사용자의 PC에서 현재 디렉토리 기준으로 추가/삭제/변경한 모든 파일들을 실제 서버(origin, 원격지)에 업로드하기 위해서 사용합니다.
 
 ```bash
 $ git add .
