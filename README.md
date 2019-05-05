@@ -1,4 +1,4 @@
-# moodselah.github.io
+# moood.dev
 
 moodselah dev blog.
 
