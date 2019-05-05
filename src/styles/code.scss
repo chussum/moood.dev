@@ -58,7 +58,7 @@ pre[class*='language-'] {
   padding: 1.2em;
   margin: 1.5em 0;
   overflow: auto;
-  border-radius: 0.6em;
+  border-radius: 0.4em;
 }
 
 :not(pre) > code[class*='language-'],
@@ -68,7 +68,7 @@ pre[class*='language-'] {
 
 /* Inline code */
 :not(pre) > code[class*='language-'] {
-  padding: 0.1em 0.6em;
+  padding: 0.1em 0.4em;
   border-radius: 0.2em;
   white-space: normal;
   background: $inline-dimmed-color;
