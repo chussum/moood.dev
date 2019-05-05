@@ -200,7 +200,7 @@ $ git push --tags
 Counting objects: 1, done.
 Writing objects: 100% (1/1), 153 bytes | 0bytes/s
 Total 1 (delta 0), reused 0 (delta 0)
-To git@git@gehirn.moodselah.com:moodselah
+To git@gehirn.moodselah.com:moodselah
 * [new tag]       3.3.36 -> 3.3.36
 ```
 
