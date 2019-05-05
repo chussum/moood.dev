@@ -4,7 +4,7 @@ date: 2019-1-27 16:21:13
 lang: 'ko'
 ---
 
-# 🧐 Moodselah,
+# Moodselah,
 
 배움에 목마른 우물 속의 프론트엔드 개발자  
 `#javascript` `#typescript` `#vanilla` `#react` `#nodejs`
@@ -30,7 +30,7 @@ lang: 'ko'
 </table>
 <br>
 
-<h1 style="margin-bottom: 1.7rem;">💼 Work Experiences</h1>
+<h1 style="margin-bottom: 1.7rem;">Work Experiences</h1>
 
 <div style="margin-left: 0px; width: 40px; float: left">
     <img src="./images/okex.jpg">
@@ -119,7 +119,7 @@ lang: 'ko'
 </table>
 <br>
 
-# 👨🏻‍💻 Toy Projects
+# Toy Projects
 
 ### Moodselah
 
