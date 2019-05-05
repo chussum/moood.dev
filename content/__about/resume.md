@@ -7,7 +7,7 @@ lang: 'ko'
 # Moodselah,
 
 배움에 목마른 우물 속의 프론트엔드 개발자  
-`#javascript` `#typescript` `#vanilla` `#react` `#nodejs`
+`#javascript` `#typescript` `#vanillajs` `#reactjs` `#nodejs`
 
 <table>
 <colgroup>
