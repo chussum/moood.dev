@@ -188,7 +188,7 @@ Switched to a new branch 'hotfix/3.3.37'
 > 해당 명령어를 사용하고 나면 로컬(사용자 PC)에만 적용된 상태이기 때문에, 추가적인 작업으로 원격지 서버(origin)에 push를 해줘야 합니다.
 
 > 즉, `git checkout master`와 `git checkout develop`을 통해 브랜치를 전환한 후에, `git push origin master`와 `git push origin develop`을 통해 각각 원격지에 최신 코드를 푸시해주어야 합니다.  
-> `git flow hotfix finish [VERSION]`를 하면 `tag`도 자동으로 `[VERSION]`값으로 생성되는데, 이 때 실제 서버에도 tag 정보를 적용시키기 위해서 `git push --tags` 명령어를 추가적으로 사용해야합니다.
+> `git flow hotfix finish [VERSION]`를 실행하면 `tag`도 자동으로 `[VERSION]`값으로 생성되는데, 이 때 실제 서버에도 tag 정보를 적용시키기 위해서 `git push --tags` 명령어를 추가적으로 실행해줘야합니다.
 
 ```bash
 $ git flow hotfix finish 3.3.36
