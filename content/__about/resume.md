@@ -49,7 +49,7 @@ lang: 'ko'
 </tr>
 <tr>
     <th style="vertical-align: top">Tech Experience</th>
-    <td>aws, typescript, coreui, reactjs, reactnative, redux, scss, lodash, express, webpack, babel, nginx, pm2</td>
+    <td>aws, typescript, coreui, websocket, reactjs, reactnative, redux, scss, lodash, express, webpack, babel, nginx, pm2</td>
 </tr>
 <tr>
     <th style="vertical-align: top">Projects</th>
