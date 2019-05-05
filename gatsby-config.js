@@ -32,6 +32,7 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 1000,
+              // wrapperStyle: fluidResult => `margin-left: inherit; margin-right: inherit;`,
             },
           },
           {

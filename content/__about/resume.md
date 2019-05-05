@@ -30,9 +30,12 @@ lang: 'ko'
 </table>
 <br>
 
-# 💼 Work Experiences
+<h1 style="margin-bottom: 1.7rem;">💼 Work Experiences</h1>
 
-### OKCoin Korea
+<div style="margin-left: 0px; width: 40px; float: left">
+    <img src="./images/okex.jpg">
+</div>
+<h3 style="margin-top: 2.2rem; margin-bottom: 1rem; padding-left: 50px;">OKCoin Korea</span>
 
 <table>
 <colgroup>
@@ -58,7 +61,10 @@ lang: 'ko'
 </table>
 <br>
 
-### Vitalhint Korea
+<div style="margin-left: -4px; width: 50px; float: left">
+    <img src="./images/haemuk.jpg">
+</div>
+<h3 style="margin-top: 0.95rem; padding-left: 50px;">Vitalhint Korea</span>
 
 <table>
 <colgroup>
@@ -84,9 +90,10 @@ lang: 'ko'
 </table>
 <br>
 
-### YelloStory
-
-<img src="./images/yellostory.jpg" style="width: 50px">
+<div style="margin-left: -4px; width: 50px; float: left">
+    <img src="./images/yellostory.jpg">
+</div>
+<h3 style="margin-top: 0.95rem; padding-left: 50px;">YelloStory</span>
 
 <table>
 <colgroup>
