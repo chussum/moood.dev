@@ -24,7 +24,7 @@ lang: 'ko'
 </tr>
 <tr>
     <th>Blog</th>
-    <td><a href="https://moodselah.github.io">https://moodselah.github.io</a></td>
+    <td><a href="https://moood.dev">https://moood.dev</a></td>
 </tr>
 <tr>
     <th>Github</th>
