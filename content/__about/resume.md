@@ -86,6 +86,8 @@ lang: 'ko'
 
 ### YelloStory
 
+<img src="./images/yellostory.jpg" style="width: 50px">
+
 <table>
 <colgroup>
     <col width="120px" />
