@@ -91,7 +91,10 @@ body.light {
   }
 
   .content {
-    font-size: 14.994px;
+    font-family: 'Noto Serif KR', 'Noto Sans KR', serif;
+    font-size: 18px;
+    line-height: 1.75;
+    color: #495057;
     a {
       color: #888;
       &:hover {

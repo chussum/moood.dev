@@ -2,6 +2,7 @@
 @import '../styles/light-theme.scss';
 @import '../styles/dark-theme.scss';
 @import url('//vendor.imweb.me/css/arita.css');
+@import url('//fonts.googleapis.com/css?family=Noto+Serif+KR');
 
 body {
   font-family: aritadm, '아리따돋움', -apple-system, system-ui,
@@ -18,6 +19,9 @@ body {
   transition: background-color 0.3s, color 0.3s;
 }
 
-b, b *, strong, strong * {
+b,
+b *,
+strong,
+strong * {
   font-weight: 700;
 }
