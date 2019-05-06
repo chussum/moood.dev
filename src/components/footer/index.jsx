@@ -5,7 +5,7 @@ import './index.scss'
 export const Footer = () => (
   <footer className="footer">
     ©
-    <a href="https://moood.dev" target="_blank">
+    <a href="https://moood.dev">
       moood
     </a>
   </footer>
