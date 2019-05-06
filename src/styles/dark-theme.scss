@@ -107,5 +107,9 @@ body.dark {
     pre[class*='language-'] {
       font-size: 16.5px;
     }
+    :not(pre) > code[class*='language-'] {
+      font-family: 'Noto Serif KR', Noto Sans KR, serif;
+      line-height: 1.75;
+    }
   }
 }
