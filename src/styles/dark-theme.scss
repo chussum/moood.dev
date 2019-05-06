@@ -103,5 +103,9 @@ body.dark {
     font-family: 'Noto Serif KR', 'Noto Sans KR', serif;
     font-size: 18px;
     line-height: 1.75;
+    code[class*='language-'],
+    pre[class*='language-'] {
+      font-size: 16.5px;
+    }
   }
 }

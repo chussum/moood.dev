@@ -101,5 +101,9 @@ body.light {
         color: #000;
       }
     }
+    code[class*='language-'],
+    pre[class*='language-'] {
+      font-size: 16.5px;
+    }
   }
 }
