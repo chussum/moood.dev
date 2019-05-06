@@ -1,7 +1,7 @@
 module.exports = {
   title: `MOOOD`,
   description: `moodselah dev blog`,
-  author: `moodselah`,
+  author: `moood`,
   introduction: `배움에 목마른 우물 속의 프론트엔드 개발자 #javascript #typescript #vanillajs #reactjs #nodejs`,
   siteUrl: `https://moood.dev`, // Your blog site url
   social: {
