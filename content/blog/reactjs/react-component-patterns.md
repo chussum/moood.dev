@@ -1,10 +1,10 @@
 ---
-title: '[번역] React Component Patterns'
+title: '[번역] 리액트 컴포넌트 패턴'
 date: 2018-09-05 23:02:10
 category: 'reactjs'
 ---
 
-이 글은 Gustavo Matheus의 React Component Patterns을 번역한 글입니다.  
+이 글은 Gustavo Matheus의 **React Component Patterns**을 번역한 글입니다.  
 원문: https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82
 <br><br>
 
