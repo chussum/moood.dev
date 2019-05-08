@@ -4,7 +4,7 @@ date: 2019-1-27 16:21:13
 lang: 'ko'
 ---
 
-# Moodselah,
+# Moood,
 
 배움에 목마른 우물 속의 프론트엔드 개발자  
 `#javascript` `#typescript` `#vanillajs` `#reactjs` `#nodejs`

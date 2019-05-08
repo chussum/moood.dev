@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 
 import { rhythm } from '../utils/typography'
+import { Head } from '../components/head'
 import * as Lang from '../constants'
 
 export default ({ data }) => {
@@ -12,18 +13,21 @@ export default ({ data }) => {
     .map(({ node }) => node)[0]
 
   return (
-    <div
-      style={{
-        marginLeft: `auto`,
-        marginRight: `auto`,
-        maxWidth: rhythm(30),
-        padding: `${rhythm(0.5)} ${rhythm(3 / 4)} ${rhythm(1.5)} ${rhythm(
-          3 / 4
-        )}`,
-      }}
-    >
-      <div dangerouslySetInnerHTML={{ __html: resume.html }} />
-    </div>
+    <>
+      <Head title="Resume" />
+      <div
+        style={{
+          marginLeft: `auto`,
+          marginRight: `auto`,
+          maxWidth: rhythm(30),
+          padding: `${rhythm(0.5)} ${rhythm(3 / 4)} ${rhythm(1.5)} ${rhythm(
+            3 / 4
+          )}`,
+        }}
+      >
+        <div dangerouslySetInnerHTML={{ __html: resume.html }} />
+      </div>
+    </>
   )
 }
 
