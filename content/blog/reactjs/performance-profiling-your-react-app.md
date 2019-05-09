@@ -70,7 +70,7 @@ Commit chart는 탭의 오른쪽 상단에 있습니다. 프로파일링을 진�
 
 # Browsing Commits
 
-Commit은 flame charts, ranked charts, component charts 및 interactions으로 구성되어 있습니다. 이러한 다양한 보기들는 애플리케이션의 성능을 볼 수 있는 다양한 시각을 제공합니다. Commit 막대를 클릭하면 chart 영역에 해당 commit에 대한 데이터가 표시됩니다.
+Commit은 flame charts, ranked charts, component charts 및 interactions으로 구성되어 있습니다. 이러한 다양한 보기들는 애플리케이션의 성능을 볼 수 있는 다양한 화면들을 제공합니다. Commit 막대를 클릭하면 chart 영역에 해당 commit에 대한 데이터가 표시됩니다.
 
 ## Flame Chart
 
@@ -84,15 +84,15 @@ Flame chart는 특정 commit에 대한 애플리케이션의 state를 나타냅�
 
 ## Ranked Chart
 
-Ranked chart는 각 컴포넌트들을 단일 commit으로 표시하며 렌더링하는 데 오래걸린 순으로 순위가 매겨집니다. 렌더링하는 데 오래 걸리는 컴포넌트가 맨 위에 위치합니다. 이 차트를 보려면 프로파일러 탭의 왼쪽 상단 모서리에 있는 ranked chart 라디오 버튼을 클릭하십시오. Flame chart와 마찬가지로 컴포넌트를 클릭하여 순위가 매겨진 차트를 확대하거나 축소 할 수 있습니다:
+Ranked chart는 각 컴포넌트들을 단일 commit으로 표시하며 렌더링하는 데 오래 걸린 순으로 순위가 매겨집니다. 렌더링하는 데 오래 걸린 컴포넌트가 맨 위에 위치합니다. 이 차트를 보려면 프로파일러 탭의 왼쪽 상단 모서리에 있는 ranked chart 라디오 버튼을 클릭하십시오. Flame chart와 마찬가지로 컴포넌트를 클릭하여 순위가 매겨진 차트를 확대하거나 축소 할 수 있습니다:
 
 ![ranked-chart](./images/performance-profiling-your-react-app/ranked-chart.png)
 
 ## Component Chart
 
-component chart는 프로파일링을 진행하는 동안 컴포넌트의 렌더링 주기에 대한 정보를 제공합니다. 이것을 막대 차트 형태로 표시합니다. 각 막대는 컴포넌트가 렌더링 된 시간을 나타냅니다. 프로파일링 세션 중에 선택한 컴포넌트가 전혀 렌더링되지 않았으면 이를 나타내는 메시지가 표시됩니다.
+Component chart는 프로파일링이 진행되는 동안의 컴포넌트 렌더링 주기 정보를 제공합니다. 이 정보를 막대 차트 형태로 표시합니다. 각 막대는 컴포넌트가 렌더링 된 시간을 나타냅니다. 프로파일링 세션 중에 선택한 컴포넌트가 전혀 렌더링되지 않았으면 이를 나타내는 메시지가 표시됩니다.
 
-이 차트를 보려면 컴포넌트를 더블 클릭하거나 컴포넌트를 선택하고 오른쪽의 세부 정보 창에서 파란색 막대 차트 아이콘을 클릭하십시오. 오른쪽의 세부 정보 창에서 'x'버튼을 클릭하면 이전 차트로 돌아갈 수 있습니다:
+Component chart를 보려면 컴포넌트를 더블 클릭하거나 컴포넌트를 선택하고 오른쪽의 세부 정보 창에서 파란색 막대 차트 아이콘을 클릭하십시오. 오른쪽의 세부 정보 창에서 'x'버튼을 클릭하면 이전 차트로 돌아갈 수 있습니다:
 
 ![component-chart](./images/performance-profiling-your-react-app/component-chart.gif)
 
@@ -103,8 +103,7 @@ Interaction chart는 업데이트의 원인을 추적하여 프로파일러 탭�
 # Common Problems With React Profiler
 
 - 어플리케이션에 여러 개의 root가 있으면 프로파일링 후에 다음의 오류가 발생할 수 있습니다: **No profiling data has been recorded for the selected root.** 이 오류가 발생하면 **elements** 패널에서 다른 root를 선택하여 해당 root에 대한 프로파일링 정보를 보십시오.
-- Sometimes a commit may be so fast that React Profiler does not get any meaningful information. In such cases you would get the following error: **No timing data to display for the selected commit.**
-- 때로는 commit이 너무 빨라서 React Profiler가 의미있는 정보를 얻지 못할 수도 있습니다. 이와 같은 경우에는 다음의 오류가 발생합니다: **No timing data to display for the selected commit.**
+- 때로는 commit이 너무 빨라서 React Profiler가 의미있는 정보를 얻지 못할 수도 있습니다. 이 경우에는 다음의 오류가 발생합니다: **No timing data to display for the selected commit.**
 
 # Conclusion
 
