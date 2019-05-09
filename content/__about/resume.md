@@ -11,7 +11,7 @@ lang: 'ko'
 
 <table>
 <colgroup>
-    <col width="120px" />
+    <col width="150px" />
     <col />
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
@@ -37,11 +37,11 @@ lang: 'ko'
 <div style="margin-left: 0px; width: 40px; float: left">
     <img src="./images/okex.jpg">
 </div>
-<h3 style="margin-top: 2.2rem; margin-bottom: 1rem; padding-left: 50px;">OKCoin Korea</span>
+<h3 style="margin-top: 2.2rem; margin-bottom: 1.6rem; padding-left: 50px;">OKCoin Korea</span>
 
 <table>
 <colgroup>
-    <col width="120px" />
+    <col width="150px" />
     <col />
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
@@ -62,14 +62,14 @@ lang: 'ko'
 </tr>
 </table>
 
-<div style="margin-left: -4px; width: 50px; float: left">
+<div style="margin-left: -4px; margin-top: 1rem; width: 50px; float: left">
     <img src="./images/haemuk.jpg">
 </div>
-<h3 style="margin-top: 1.6rem; padding-left: 50px;">Vitalhint Korea</span>
+<h3 style="margin-top: 2.6rem; margin-bottom: 1.6rem; padding-left: 50px;">Vitalhint Korea</span>
 
 <table>
 <colgroup>
-    <col width="120px" />
+    <col width="150px" />
     <col />
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
@@ -90,14 +90,14 @@ lang: 'ko'
 </tr>
 </table>
 
-<div style="margin-left: -4px; width: 50px; float: left">
+<div style="margin-left: -4px; margin-top: 1rem; width: 50px; float: left">
     <img src="./images/yellostory.jpg">
 </div>
-<h3 style="margin-top: 1.6rem; padding-left: 50px;">YelloStory</span>
+<h3 style="margin-top: 2.6rem; margin-bottom: 1.6rem; padding-left: 50px;">YelloStory</span>
 
 <table>
 <colgroup>
-    <col width="120px" />
+    <col width="150px" />
     <col />
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
@@ -118,13 +118,38 @@ lang: 'ko'
 </tr>
 </table>
 
+<h3 style="margin-top: 2.6rem; margin-bottom: 1.6rem; ">T&C Partner</h3>
+
+<table>
+<colgroup>
+    <col width="150px" />
+    <col />
+</colgroup>
+<tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
+    <th>Period</th>
+    <td>2012.08 ~ 2015.01</td>
+</tr>
+<tr>
+    <th>Position</th>
+    <td>Software Engineer</td>
+</tr>
+<tr>
+    <th style="vertical-align: top">Projects</th>
+    <td style="word-break: break-all">Hyundai Rotem Railway Integrated Design System, Huvitz Product Data Management</td>
+</tr>
+<tr>
+    <th style="vertical-align: top">Tech Experience</th>
+    <td style="word-break: break-all">mql, enovia, java, jquery, spring framework, dojo framework, postgreSQL, hibernate, svn</td>
+</tr>
+</table>
+
 # Personal Projects
 
 ### Moodselah
 
-<table>
+<table style="margin-bottom: 2.6rem">
 <colgroup>
-    <col width="120px" />
+    <col width="150px" />
     <col />
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
@@ -143,9 +168,9 @@ lang: 'ko'
 
 ### Delibee
 
-<table>
+<table style="margin-bottom: 2.6rem">
 <colgroup>
-    <col width="120px" />
+    <col width="150px" />
     <col />
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
@@ -164,9 +189,9 @@ lang: 'ko'
 
 ### Deep Link
 
-<table>
+<table style="margin-bottom: 2.6rem">
 <colgroup>
-    <col width="120px" />
+    <col width="150px" />
     <col />
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
@@ -185,9 +210,9 @@ lang: 'ko'
 
 ### Lunch Sheet
 
-<table>
+<table style="margin-bottom: 2.6rem">
 <colgroup>
-    <col width="120px" />
+    <col width="150px" />
     <col />
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
@@ -206,9 +231,9 @@ lang: 'ko'
 
 ### Simple Basket
 
-<table>
+<table style="margin-bottom: 2.6rem">
 <colgroup>
-    <col width="120px" />
+    <col width="150px" />
     <col />
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
@@ -225,7 +250,7 @@ lang: 'ko'
 
 <table>
 <colgroup>
-    <col width="120px" />
+    <col width="150px" />
     <col />
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
