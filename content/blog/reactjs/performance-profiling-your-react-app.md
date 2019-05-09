@@ -70,7 +70,7 @@ Commit chart는 탭의 오른쪽 상단에 있습니다. 프로파일링을 진�
 
 # Browsing Commits
 
-Commit은 flame charts, ranked charts, component charts 및 interactions으로 구성되어 있습니다. 이러한 다양한 보기들는 애플리케이션의 성능을 볼 수 있는 다양한 화면들을 제공합니다. Commit 막대를 클릭하면 chart 영역에 해당 commit에 대한 데이터가 표시됩니다.
+Commit은 flame charts, ranked charts, component charts 및 interactions으로 구성되어 있습니다. 이러한 다양한 보기들은 애플리케이션의 성능을 볼 수 있는 다양한 화면들을 제공합니다. Commit 막대를 클릭하면 chart 영역에 해당 commit에 대한 데이터가 표시됩니다.
 
 ## Flame Chart
 
