@@ -1,5 +1,5 @@
 ---
-title: 'WIP: [번역] 리액트 애플리케이션 성능 프로파일링'
+title: '[번역] 리액트 애플리케이션 성능 프로파일링'
 date: 2019-05-08 21:05:34
 category: reactjs
 ---
@@ -44,7 +44,7 @@ to-do 애플리케이션에는 입력 필드가 있으며 하드 코딩 된 to-d
 
 ![demo-todo-app](./images/performance-profiling-your-react-app/demo-todo-app.png)
 
-애플리케이션의 성능을 기록하려면 레코드 버튼을 클릭 한 다음 평상시처럼 앱을 사용하십시오. 기록을 시작하면 React Profiler는 애플리케이션이 렌더링 될 때마다 정보를 수집합니다. 프로파일링이 끝나면 중지 버튼을 클릭하십시오:
+애플리케이션의 성능을 기록하려면 레코드 버튼을 클릭 한 다음 평상시처럼 앱을 사용하십시오. 기록을 시작하면 React Profiler는 애플리케이션이 렌더링 될 때마다 정보를 수집합니다. 프로파일링을 끝내려면 중지 버튼을 클릭하십시오:
 
 ![recording-profiling-data-using-react-profiler](./images/performance-profiling-your-react-app/recording-profiling-data-using-react-profiler.png)
 
@@ -56,7 +56,7 @@ to-do 애플리케이션에는 입력 필드가 있으며 하드 코딩 된 to-d
 
 # Commit Chart
 
-commit chart는 탭의 오른쪽 상단에 있습니다. 프로파일링을 진행하는 동안 실행된 모든 commit을 포함합니다.
+Commit chart는 탭의 오른쪽 상단에 있습니다. 프로파일링을 진행하는 동안 실행된 모든 commit을 포함합니다.
 
 차트의 각 막대는 각각의 단일 commit을 나타냅니다. 막대의 높이와 색상은 commit이 렌더링되는 데에 걸린 시간을 나타냅니다. (길고 노란 막대는 렌더링이 오래 걸린 commit이고, 짧고 파란색인 막대는 렌더링하는 데 좀 더 짧은 시간이 걸린 commit을 나타냅니다.)
 
@@ -70,40 +70,41 @@ commit chart는 탭의 오른쪽 상단에 있습니다. 프로파일링을 진�
 
 # Browsing Commits
 
-Commits can be viewed as flame charts, ranked charts, component charts and interactions. These different views give you different perspectives with which to view the performance of your app. Clicking a commit bar shows you data for that commit in the chart view.
+Commit은 flame charts, ranked charts, component charts 및 interactions으로 구성되어 있습니다. 이러한 다양한 보기들는 애플리케이션의 성능을 볼 수 있는 다양한 시각을 제공합니다. Commit 막대를 클릭하면 chart 영역에 해당 commit에 대한 데이터가 표시됩니다.
 
 ## Flame Chart
 
-The flame chart view represents the state of your application for a particular commit. Each bar represents a component and the width of a bar shows how long it took for a component and its children to be rendered.
+Flame chart는 특정 commit에 대한 애플리케이션의 state를 나타냅니다. 각 막대는 각각의 컴포넌트를 나타내며 막대의 너비는 컴포넌트와 자식 컴포넌트가 렌더링되는 데 소요된 시간을 나타냅니다.
 
-The colors of the bars also indicate how long it took for each component to render. Yellow components took more time, blue components took less time, and gray components did not render at all during the commit.
+막대의 색상 또한 각 컴포넌트가 렌더링되는 데 소요된 시간을 나타냅니다. 노란색 컴포넌트는 시간이 더 오래 걸렸음을 파란색 컴포넌트는 시간이 덜 걸렸음을 회색 구성 요소는 commit 중에 전혀 렌더링되지 않았음을 알려줍니다.
 
-Clicking a component shows you information about it during that commit on the right detail panel:
+컴포넌트를 클릭하면 오른쪽에 위치한 세부 정보 패널에 해당되는 commit의 정보가 표시됩니다:
 
 ![flame-chart](./images/performance-profiling-your-react-app/flame-chart.gif)
 
 ## Ranked Chart
 
-The ranked chart view displays each component in a single commit, ranked in order of how long they took to render. The components which took longer to render are at the top. To view this chart, click the ranked chart radio button in the top left corner of the Profiler tab. As with the flame chart, you can zoom in or out on a ranked chart by clicking on components:
+Ranked chart는 각 컴포넌트들을 단일 commit으로 표시하며 렌더링하는 데 오래걸린 순으로 순위가 매겨집니다. 렌더링하는 데 오래 걸리는 컴포넌트가 맨 위에 위치합니다. 이 차트를 보려면 프로파일러 탭의 왼쪽 상단 모서리에 있는 ranked chart 라디오 버튼을 클릭하십시오. Flame chart와 마찬가지로 컴포넌트를 클릭하여 순위가 매겨진 차트를 확대하거나 축소 할 수 있습니다:
 
 ![ranked-chart](./images/performance-profiling-your-react-app/ranked-chart.png)
 
 ## Component Chart
 
-The component chart provides information on the render cycle of a component while you were profiling. It displays this in form of a bar chart. Each bar represents a time when the component rendered. If the selected component did not render at all during the profiling session, a message is shown to indicate this.
+component chart는 프로파일링을 진행하는 동안 컴포넌트의 렌더링 주기에 대한 정보를 제공합니다. 이것을 막대 차트 형태로 표시합니다. 각 막대는 컴포넌트가 렌더링 된 시간을 나타냅니다. 프로파일링 세션 중에 선택한 컴포넌트가 전혀 렌더링되지 않았으면 이를 나타내는 메시지가 표시됩니다.
 
-To view this chart, either double-click on a component or select a component and click on the blue bar chart icon in the right detail pane. You can return to the previous chart by clicking the “x” button in the right detail pane:
+이 차트를 보려면 컴포넌트를 더블 클릭하거나 컴포넌트를 선택하고 오른쪽의 세부 정보 창에서 파란색 막대 차트 아이콘을 클릭하십시오. 오른쪽의 세부 정보 창에서 'x'버튼을 클릭하면 이전 차트로 돌아갈 수 있습니다:
 
 ![component-chart](./images/performance-profiling-your-react-app/component-chart.gif)
 
 ## Interaction Chart
 
-The interaction chart is an [experimental API](https://gist.github.com/bvaughn/8de925562903afd2e7a12554adcdda16) that can trace the cause of an update and display it in the profiler tab.
+Interaction chart는 업데이트의 원인을 추적하여 프로파일러 탭에 표시해주는 [시험용 API](https://gist.github.com/bvaughn/8de925562903afd2e7a12554adcdda16)입니다.
 
 # Common Problems With React Profiler
 
-- Having multiple roots in your application can lead to an error after profiling: **No profiling data has been recorded for the selected root.** If you encounter this error, try selecting a different root in the **elements** panel to view profiling information for that root.
+- 어플리케이션에 여러 개의 root가 있으면 프로파일링 후에 다음의 오류가 발생할 수 있습니다: **No profiling data has been recorded for the selected root.** 이 오류가 발생하면 **elements** 패널에서 다른 root를 선택하여 해당 root에 대한 프로파일링 정보를 보십시오.
 - Sometimes a commit may be so fast that React Profiler does not get any meaningful information. In such cases you would get the following error: **No timing data to display for the selected commit.**
+- 때로는 commit이 너무 빨라서 React Profiler가 의미있는 정보를 얻지 못할 수도 있습니다. 이와 같은 경우에는 다음의 오류가 발생합니다: **No timing data to display for the selected commit.**
 
 # Conclusion
 
@@ -112,7 +113,7 @@ The interaction chart is an [experimental API](https://gist.github.com/bvaughn/8
 
 # For More on Building React Apps
 
-Looking to learn more about React and get going with your React app development? Check out these resources to find out more:
+React에 대해 더 알고나서 React 애플리케이션 개발을 시작하시겠습니까? 그렇다면 다음 자료를 통해 더 자세한 내용을 확인하십시오:
 
 - [Hello, Create React App](https://www.telerik.com/blogs/hello-create-react-app-2)
 - [All Things React](https://www.telerik.com/blogs/all-things-react)
