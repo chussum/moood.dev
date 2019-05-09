@@ -14,7 +14,7 @@ category: reactjs
 
 React는 프론트엔드 개발을 위한 멋진 프레임 워크입니다. 이는 우리가 고통없이 인터렉티브한 UI를 만드는 데 도움을 줍니다. 또한 React는 Virtual DOM을 사용하여 변경 사항을 효율적으로 DOM에 적용시킵니다.
 
-그러나 우리는 코드를 작성할 때 우리도 모르게 성능 문제를 유도합니다. 따라서 이러한 성능 문제를 해결하기 전에 성능 문제를 발견 할 수 있어야 합니다.
+그러나 우리는 코드를 작성할 때 우리도 모르게 성능 문제를 유도합니다. 이러한 성능 문제를 해결하기 위해서는 성능 문제를 발견할 수 있어야 합니다.
 
 이 글에서는 React Profiler를 사용하여 React 애플리케이션의 성능을 프로파일링하는 방법을 배웁니다.
 
@@ -65,7 +65,7 @@ Commit chart는 탭의 오른쪽 상단에 있습니다. 프로파일링을 진�
 ![commit-chart](./images/performance-profiling-your-react-app/commit-chart.png)
 
 위 이미지에서는 81 개의 commit이 있었음을 알 수 있습니다. 현재 선택된 commit은 렌더링에 4.5ms가 걸렸으며 아무런 상호 작용(interactions)이 없었습니다.
-이런 경우처럼 commit 수가 너무 많은 경우에는 위 이미지에 표시된 톱니 바퀴 아이콘을 클릭하여 commit을 필터링 할 수 있습니다.
+이런 경우처럼 commit 수가 너무 많은 경우에는 위 이미지에 표시된 톱니 바퀴 아이콘을 클릭하여 commit을 필터링할 수 있습니다.
 이 기능은 입력한 ms값(Render duration)보다 덜 소요된 commit들을 숨길 수 있습니다.
 
 # Browsing Commits
@@ -84,7 +84,7 @@ Flame chart는 특정 commit에 대한 애플리케이션의 state를 나타냅�
 
 ## Ranked Chart
 
-Ranked chart는 각 컴포넌트들을 단일 commit으로 표시하며 렌더링하는 데 오래 걸린 순으로 순위가 매겨집니다. 렌더링하는 데 오래 걸린 컴포넌트가 맨 위에 위치합니다. 이 차트를 보려면 프로파일러 탭의 왼쪽 상단 모서리에 있는 ranked chart 라디오 버튼을 클릭하십시오. Flame chart와 마찬가지로 컴포넌트를 클릭하여 순위가 매겨진 차트를 확대하거나 축소 할 수 있습니다:
+Ranked chart는 각 컴포넌트들을 단일 commit으로 표시하며 렌더링하는 데 오래 걸린 순으로 순위가 매겨집니다. 렌더링하는 데 오래 걸린 컴포넌트가 맨 위에 위치합니다. 이 차트를 보려면 프로파일러 탭의 왼쪽 상단 모서리에 있는 ranked chart 라디오 버튼을 클릭하십시오. Flame chart와 마찬가지로 컴포넌트를 클릭하여 순위가 매겨진 차트를 확대하거나 축소할 수 있습니다:
 
 ![ranked-chart](./images/performance-profiling-your-react-app/ranked-chart.png)
 
