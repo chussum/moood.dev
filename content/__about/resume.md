@@ -118,31 +118,6 @@ lang: 'ko'
 </tr>
 </table>
 
-<h3 style="margin-top: 2.6rem; margin-bottom: 1.6rem; ">T&C Partner</h3>
-
-<table>
-<colgroup>
-    <col width="150px" />
-    <col />
-</colgroup>
-<tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
-    <th>Period</th>
-    <td>2012.08 ~ 2015.01</td>
-</tr>
-<tr>
-    <th>Position</th>
-    <td>Software Engineer</td>
-</tr>
-<tr>
-    <th style="vertical-align: top">Projects</th>
-    <td style="word-break: break-all">Hyundai Rotem Railway Integrated Design System, Huvitz Product Data Management</td>
-</tr>
-<tr>
-    <th style="vertical-align: top">Tech Experience</th>
-    <td style="word-break: break-all">mql, enovia, java, jquery, spring framework, dojo framework, postgreSQL, hibernate, svn</td>
-</tr>
-</table>
-
 # Personal Projects
 
 ### Moodselah
@@ -205,27 +180,6 @@ lang: 'ko'
 <tr>
     <th style="vertical-align: top">Tech Experience</th>
     <td style="word-break: break-all">webpack, babel</td>
-</tr>
-</table>
-
-### Lunch Sheet
-
-<table style="margin-bottom: 2.6rem">
-<colgroup>
-    <col width="150px" />
-    <col />
-</colgroup>
-<tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
-    <th>Description</th>
-    <td>Google Spreadsheet Web</td>
-</tr>
-<tr>
-    <th>Link</th>
-    <td style="word-break: break-all"><a href="https://eat.moodselah.com" target="_blank">https://eat.moodselah.com</a></td>
-</tr>
-<tr>
-    <th style="vertical-align: top">Tech Experience</th>
-    <td style="word-break: break-all">typescript, routing-controller, typedi, ejs, cheerio, express</td>
 </tr>
 </table>
 
