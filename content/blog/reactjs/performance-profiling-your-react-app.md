@@ -1,5 +1,5 @@
 ---
-title: '[번역] 리액트 애플리케이션 성능 프로파일링'
+title: '[번역] Performance Profiling Your React App'
 date: 2019-05-08 21:05:34
 category: reactjs
 ---

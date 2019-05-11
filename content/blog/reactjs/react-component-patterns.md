@@ -1,5 +1,5 @@
 ---
-title: '[번역] 리액트 컴포넌트 패턴'
+title: '[번역] React Component Patterns'
 date: 2018-09-05 23:02:10
 category: 'reactjs'
 ---

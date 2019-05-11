@@ -1,5 +1,5 @@
 ---
-title: '[번역] async/await 지옥 탈출하기'
+title: '[번역] How to escape async/await hell'
 date: 2018-09-04 21:05:99
 category: 'javascript'
 ---
