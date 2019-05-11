@@ -112,7 +112,7 @@ Interaction chart는 업데이트의 원인을 추적하여 프로파일러 탭�
 
 # For More on Building React Apps
 
-React에 대해 더 알고나서 React 애플리케이션 개발을 시작하시겠습니까? 그렇다면 다음 자료를 통해 더 자세한 내용을 확인하십시오:
+Looking to learn more about React and get going with your React app development? Check out these resources to find out more:
 
 - [Hello, Create React App](https://www.telerik.com/blogs/hello-create-react-app-2)
 - [All Things React](https://www.telerik.com/blogs/all-things-react)
