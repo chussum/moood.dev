@@ -54,7 +54,7 @@ lang: 'ko'
 </tr>
 <tr>
     <th style="vertical-align: top">Projects</th>
-    <td style="word-break: break-all">OKEx Korea React Native App, OKEX Korea React Web (2019.08 ~ ing)</td>
+    <td style="word-break: break-all">OKEx Korea React Native App, OKEx Korea React Web (2019.08 ~ ing)</td>
 </tr>
 <tr>
     <th style="vertical-align: top">Tech Experience</th>
