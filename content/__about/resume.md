@@ -54,11 +54,11 @@ lang: 'ko'
 </tr>
 <tr>
     <th style="vertical-align: top">Projects</th>
-    <td style="word-break: break-all">OKEx Korea App (React Native)</td>
+    <td style="word-break: break-all">OKEx Korea React Native App, OKEX Korea React Web (2019.08 ~ ing)</td>
 </tr>
 <tr>
     <th style="vertical-align: top">Tech Experience</th>
-    <td style="word-break: break-all">aws, typescript, coreui, websocket, reactjs, reactnative, redux, scss, lodash, express, webpack, babel, nginx, pm2</td>
+    <td style="word-break: break-all">aws, typescript, websocket, webworker, reactjs, reactnative, redux, scss, lodash, express, webpack, babel, nginx, pm2</td>
 </tr>
 </table>
 
@@ -106,7 +106,7 @@ lang: 'ko'
 </tr>
 <tr>
     <th>Position</th>
-    <td>FrontEnd Engineer</td>
+    <td>Web Developer</td>
 </tr>
 <tr>
     <th style="vertical-align: top">Projects</th>
@@ -118,7 +118,53 @@ lang: 'ko'
 </tr>
 </table>
 
+<h3 style="margin-top: 2.6rem; margin-bottom: 1.6rem; ">T&C Partner</h3>
+
+<table>
+<colgroup>
+    <col width="150px" />
+    <col />
+</colgroup>
+<tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
+    <th>Period</th>
+    <td>2012.08 ~ 2015.01</td>
+</tr>
+<tr>
+    <th>Position</th>
+    <td>Software Engineer</td>
+</tr>
+<tr>
+    <th style="vertical-align: top">Projects</th>
+    <td style="word-break: break-all">Hyundai Rotem Railway Integrated Design System, Huvitz Product Data Management</td>
+</tr>
+<tr>
+    <th style="vertical-align: top">Tech Experience</th>
+    <td style="word-break: break-all">mql, enovia, java, jquery, spring framework, dojo framework, postgreSQL, hibernate, svn</td>
+</tr>
+</table>
+
 # Personal Projects
+
+### 따릉아부탁해
+
+<table style="margin-bottom: 2.6rem">
+<colgroup>
+    <col width="150px" />
+    <col />
+</colgroup>
+<tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
+    <th>Description</th>
+    <td>서울시 따릉이 앱</td>
+</tr>
+<tr>
+    <th>Link</th>
+    <td style="word-break: break-all"><a href="https://apps.apple.com/app/id1481744372" target="_blank">https://apps.apple.com/app/id1481744372</a></td>
+</tr>
+<tr>
+    <th style="vertical-align: top">Tech Experience</th>
+    <td style="word-break: break-all">swift 5.1, reswift, navermap, alamofire</td>
+</tr>
+</table>
 
 ### Moodselah
 
