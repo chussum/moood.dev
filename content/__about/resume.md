@@ -46,7 +46,7 @@ lang: 'ko'
 </colgroup>
 <tr style="border-top: 1px solid hsla(0,0%,0%,0.12);">
     <th>Period</th>
-    <td>2018.06 ~ </td>
+    <td>2018.06 ~</td>
 </tr>
 <tr>
     <th>Position</th>
@@ -54,7 +54,7 @@ lang: 'ko'
 </tr>
 <tr>
     <th style="vertical-align: top">Projects</th>
-    <td style="word-break: break-all">OKEx Korea React Native App, OKEx Korea React Web (2019.08 ~ ing)</td>
+    <td style="word-break: break-all">OKEx Korea React Native App, OKEx Korea React Web</td>
 </tr>
 <tr>
     <th style="vertical-align: top">Tech Experience</th>
